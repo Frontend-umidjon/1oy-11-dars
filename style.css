@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+header nav ul{
+    display: inline-block;
+    margin:0px 240px;
+    
+}
+header nav ul li{
+    display: inline-block;
+    padding-right: 30px;
+
+   
+    
+}
+header .Logo{
+
+margin: -20px;
+
+
+}
+header nav{
+    margin: 50px;
+}
+header nav ul li :hover {
+background-color: #fc9337;
+width: 100px;
+height: 30px;
+  }
